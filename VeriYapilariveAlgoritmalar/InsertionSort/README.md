@@ -25,7 +25,7 @@
 ```
 2. Big-O gösterimini yazınız.
 ```
-    Big-O => O(n^2) |  => O(6^2) = O(36)
+    | Big-O => O(n^2) | 
 ```
 3.  Time Complexity
     *  Average case: Aradığımız sayının ortada olması
