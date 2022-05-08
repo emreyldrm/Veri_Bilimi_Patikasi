@@ -60,7 +60,7 @@ log(n)-1
 > Formülümüz 2 kısıma ayrıldı.
 ```
 log(n)-1
-    ∑ (n) =>  n* [(log(n)-1) - (0) + 1] => (nlog(n))
+    ∑ (n) =>  n * [(log(n)-1) - (0) + 1] => (nlog(n))
  i=0
 ```
 ```
