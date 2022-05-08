@@ -64,3 +64,4 @@ küçük olduğu için 3' ün soluna yazılır.                               1 
                                                                   0       3
                                                                       2       4
 ```
+> 08.05.2022 [Patika.dev](https://www.patika.dev/tr)
