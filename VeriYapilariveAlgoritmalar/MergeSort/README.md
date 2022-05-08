@@ -61,12 +61,12 @@ log(n)-1
 ```
 log(n)-1
     ∑ (n) =>  n * [(log(n)-1) - (0) + 1] => (nlog(n))
- i=0
+   i=0
 ```
 ```
 log(n)-1
     ∑ (2^i) => (1 + 2 + 4 + .... + 2^(log(n)-1))  => (Bu sayılar için bir toplama formülü bulunuyor sonuç ise şöyle) [(2^log(n)-1+1) - 1] / (2-1)
- i=0
+   i=0
 
  Buradan ilerlersek => 2^log(n) - 1  => Sonucumuz (n-1) oluyor. 
 ```
@@ -78,3 +78,7 @@ log(n)-1
 ```
 Big-O notation = O(nlog(n)) olmuş oluyor.
 ```
+
+> 08.05.2022 [Patika.dev](https://www.patika.dev/tr)
+
+> [Back To Back SWE](https://www.youtube.com/watch?v=alJswNJ4P3U)' nin katkılarıyla.
